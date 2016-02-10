@@ -6,4 +6,5 @@ Following are the different algorithms I am using-
 
 
 # Projects
-## Enron email sentiment analysis
+- [Enron email sentiment analysis] (https://github.com/hrushikesh-dhumal/Sentiment_Analysis/tree/master/Enron-email-sentiment-analysis)-
+
